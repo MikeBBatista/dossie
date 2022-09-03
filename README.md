@@ -29,7 +29,7 @@
     <li> Javascript com enfase nas frameworks Angular e Vue;;</li>
     <li> Java com conhecimentos quanto a framework SpringBoot;</li>
     <li> Python com conhecimentos intermediários na framework Django;</li>
-    <li> <code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
+    <li> SQL para modelagem, criação e manipulação de Banco de Dados Oracle, MySQL e SQL Server.</li>
     </ul></li>
   <br>
   <li> Metodologia Ágil (Scrum):
@@ -42,9 +42,10 @@
   <li> DevOps:
   <ul> 
     <li>Versionamento de código padronizado com Git Workflow;</li>
-    <li>Pipelines build, teste unitário, teste integrado e deploy pelo <code>CircleCI</code>;</li>
+    <li>Pipelines build, teste unitário, teste integrado e deploy pelo CircleCI;</li>
     </ul></li>
   </ul>
+  <li> Idiomas:
     <ul> 
     <li>Português nativo;</li>
     <li>Inglês avançado;</li>
