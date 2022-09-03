@@ -44,7 +44,7 @@
     <li>Versionamento de código padronizado com Git Workflow;</li>
     <li>Pipelines build, teste unitário, teste integrado e deploy pelo CircleCI;</li>
     </ul></li>
-  </ul>
+  <br>
   <li> Idiomas:
     <ul> 
     <li>Português nativo;</li>
