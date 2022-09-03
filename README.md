@@ -14,7 +14,7 @@
    </tr>
   </table>
   
-  <p align="justify" style="font-family:roboto;"> Meu nome é Mike Barcelos, e atualmente estou no 6º semestre de Banco de Dados na instituição href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a>. Sou formado em Engenharia de Controle e automação, e também possuo curso técnico em informática.</p>
+  <p align="justify" style="font-family:roboto;"> Meu nome é Mike Barcelos, e atualmente estou no 6º semestre de Banco de Dados na instituição <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a>. Sou formado em Engenharia de Controle e automação, e também possuo curso técnico em informática.</p>
   <p align="justify" style="font-family:roboto;"> Comecei meu técnico nos últimos dois anos de minha primeira graduação, e já frustrado com o cenário da engenharia, acabei por me encontrar na tecnologia da informação. Desde que adentrei na Fatec, minhas capacidades e habilidades foram testadas e desafiadas, me premiando sempre com mais conhecimento e preparo para situações reais no meio profissional. </p>
   <p align="justify" style="font-family:roboto;">Atualmente, no último semestre, já me vejo inserido ao mercado de trabalho, atuando como Desenvolvedor Analista Júnior na empresa Codex Utilities, com enfoque principal no front-end.</p>
   
