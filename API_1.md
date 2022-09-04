@@ -36,20 +36,14 @@
   <details>
   <summary>Interface da aplicação</summary>
   <br>
-   <h3 align="center">Tela de Login</h3>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
+   <h3 align="center">Tela de login e menu</h3>
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>
    <br>
-   <h3 align="center">Tela de Login</h3>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>
+   <h3 align="center">Tela de criar anotação</h3>
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
    <br>
-   <h3 align="center">Tela de Login</h3>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
-   <br>
-   <h3 align="center">Tela de Login</h3>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
-   <br>
-   <h3 align="center">Tela de Login</h3>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
+   <h3 align="center">Tela de calculadora</h3>
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323363-f2fabc10-9619-4292-8a01-1b54899cc396.gif" alt=""/>
   </details>
   <p align="justify" style="font-family:roboto;">O maior obstáculo que enfrentei  foi a realização do trabalho em equipe. Por possuir um pouco mais de conhecimento técnico, passei por momento de impaciência. Era difícil esperar que outras pessoas realizassem suas tarefas e por muitas vezes eu mesmo queria realiza-las. Apesar de tudo, durante o processo de realização do projeto, minha paciência foi trabalhada junto aos masters do projeto.</p>
   
