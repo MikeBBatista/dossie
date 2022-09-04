@@ -1,4 +1,4 @@
- <h1 align="center"> API 1º Semestre - 02/2020</h1>
+ <h1 align="center"> API 2º Semestre - 02/2020</h1>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
