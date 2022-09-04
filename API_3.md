@@ -21,6 +21,10 @@
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
+   <p align="justify" style="font-family:roboto;">O projeto realizado no terceiro semestre, foi meu primeiro projeto não sendo o Scrum Master, o que desafiou minha capacidade de ser liderado. Como parte da equipe, minha principal função foi a criação das telas web para o front da aplicação, que consistiam em formulários feitos em HTML e CSS com a integração direta com o Spring Boot, com alguns detalhes em Javascript.</p>
+   <p align="justify" style="font-family:roboto;">Assim como no segundo semestre, as aulas ministradas foram voltadas pro conteúdo aplicado nessa API, assim sendo, as tecnologias como Java, Spring e o SQL foram abordados em sala de aula. A parte do front-end não foi abordada em sala, por isso gastei bastante tempo pesquisando como integrar o front ao Spring Boot.</p>
+   <p align="justify" style="font-family:roboto;">De início, acreditei que minha maior dificuldade seria abdicar da liderança, mas foi uma rica troca de conhecimento mudar a posição e deixar de ser o Scrum Master. Tive diversos desafios quanto a integração do front perante a expectativa do cliente, mas com pesquisa e apoio dos professores e trabalho em equipe, esse projeto foi realizado como todos os outros.</p>
+  
   ---
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
