@@ -13,7 +13,7 @@
     <li>Gerar relatório de colaborador.</li>
   </ul>
  </p>
-  <p align="justify" style="font-family:roboto;">Nessa documentação será abordada a visão de um único desenvolvedor do projeto, para mais informações gerais <a href="https://gitlab.com/apolo-pi-fatec/apolo">clique aqui</a></p>
+  <p align="justify" style="font-family:roboto;">Nessa documentação será abordada a visão de um único desenvolvedor do projeto, para mais informações gerais <a href="https://github.com/MikeBBatista/pi-fatec-java">clique aqui</a></p>
   ---
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
