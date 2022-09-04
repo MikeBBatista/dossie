@@ -38,6 +38,18 @@
   <br>
    <h3 align="center">Tela de Login</h3>
    <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
+   <br>
+   <h3 align="center">Tela de Login</h3>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>
+   <br>
+   <h3 align="center">Tela de Login</h3>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
+   <br>
+   <h3 align="center">Tela de Login</h3>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
+   <br>
+   <h3 align="center">Tela de Login</h3>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323045-5b84a9f0-b150-454d-af1d-8473702956fd.png" alt=""/>
   </details>
   <p align="justify" style="font-family:roboto;">O maior obstáculo que enfrentei  foi a realização do trabalho em equipe. Por possuir um pouco mais de conhecimento técnico, passei por momento de impaciência. Era difícil esperar que outras pessoas realizassem suas tarefas e por muitas vezes eu mesmo queria realiza-las. Apesar de tudo, durante o processo de realização do projeto, minha paciência foi trabalhada junto aos masters do projeto.</p>
   
