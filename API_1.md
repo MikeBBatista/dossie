@@ -37,10 +37,13 @@
   <summary>Interface da aplicação</summary>
   <br>
    <h3 align="center">Tela de login e menu</h3>
-   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>
+   <p align="center">
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>    </p>
    <br>
    <h3 align="center">Tela de criar anotação</h3>
-   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
+   <p align="center">
+    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
+   </p>
    <br>
    <h3 align="center">Tela de calculadora</h3>
    <p align="center">
