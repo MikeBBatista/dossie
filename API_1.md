@@ -33,7 +33,7 @@
  <p align="justify" style="font-family:roboto;">Como as aulas apresentavam Python para realização do estudo de algoritmos, decidimos que seria interessante a utilização da linguagem para o projeto, e como eu já tinha conhecimento básico em Javascript, a utilização da linguagem também foi escolhida para realização da interface do projeto.</p>
   <p align="justify" style="font-family:roboto;">Como eu possuia conhecimento prévio, uma das minhas funções foi ajudar no nivelamento da equipe quanto ao conhecimento das tecnologias. Apesar de só ter conhecimento do básico, fui capaz de realizar a construção das telas utilizando de HTML, CSS e Javascript, e de fazer a comunicação Back - Front, utilizando Django na passagem de parâmetros principalmente dos formulários.</p>
  
-    <details>
+  <details>
   <summary>Interface da aplicação</summary>
   <br>
    <img style="border-radius: 50%;" src="" alt="![Login e Menu ](https://user-images.githubusercontent.com/46934773/188291961-515f34e5-0f54-453a-9b47-2dd82c5bf657.gif)
