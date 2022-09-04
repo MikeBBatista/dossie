@@ -43,7 +43,9 @@
    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
    <br>
    <h3 align="center">Tela de calculadora</h3>
-   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323363-f2fabc10-9619-4292-8a01-1b54899cc396.gif" alt=""/>
+   <p align="center">
+    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323363-f2fabc10-9619-4292-8a01-1b54899cc396.gif" alt=""/>
+   </p>
   </details>
   <p align="justify" style="font-family:roboto;">O maior obstáculo que enfrentei  foi a realização do trabalho em equipe. Por possuir um pouco mais de conhecimento técnico, passei por momento de impaciência. Era difícil esperar que outras pessoas realizassem suas tarefas e por muitas vezes eu mesmo queria realiza-las. Apesar de tudo, durante o processo de realização do projeto, minha paciência foi trabalhada junto aos masters do projeto.</p>
   
