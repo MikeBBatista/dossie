@@ -36,16 +36,7 @@
   <details>
   <summary>Interface da aplicação</summary>
   <br>
-   <img style="border-radius: 50%;" src="![Login e Menu ](./assets/Login e Menu.gif)" alt=""/>
-   <img style="border-radius: 50%;" src="![Alterar Saudação ](https://user-images.githubusercontent.com/46934773/188292140-23ceba33-872b-4bd1-90bc-294f5e3e78c7.gif)
-" alt=""/>
-   <img style="border-radius: 50%;" src="![Abrir Youtube](https://user-images.githubusercontent.com/46934773/188292194-2418da87-c988-49b2-b4a1-eb82f9ec01ae.gif)
-" alt=""/>
-   <img style="border-radius: 50%;" src="![Calculadora](https://user-images.githubusercontent.com/46934773/188292200-1c844461-c4be-4e27-af3d-da9a69fff2de.gif)
-" alt=""/>
-   <img style="border-radius: 50%;" src="![Criar anotações](https://user-images.githubusercontent.com/46934773/188292226-2728455b-f82a-45ba-af96-b1f06273e5b5.gif)
-" alt=""/>
-   <img style="border-radius: 50%;" src="![Leitura de texto](https://user-images.githubusercontent.com/46934773/188292231-37f5cf27-b879-4444-9937-fa96b7ec72a0.gif)
+   <img style="border-radius: 50%;" src="![loginemenu](https://user-images.githubusercontent.com/46934773/188295565-a613b01a-9812-4bda-9d98-78b1d5a4374b.gif)
 " alt=""/>
   </details>
   <p align="justify" style="font-family:roboto;">O maior obstáculo que enfrentei  foi a realização do trabalho em equipe. Por possuir um pouco mais de conhecimento técnico, passei por momento de impaciência. Era difícil esperar que outras pessoas realizassem suas tarefas e por muitas vezes eu mesmo queria realiza-las. Apesar de tudo, durante o processo de realização do projeto, minha paciência foi trabalhada junto aos masters do projeto.</p>
