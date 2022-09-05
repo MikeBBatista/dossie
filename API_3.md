@@ -36,11 +36,12 @@
       <li>Quebra de Tasks;</li>
       <li>Organização e acompanhamento regular do desenvolvimento;</li>   
       <li>Equipe trabalhando como Squad;</li>
+      <li>Comunicação ativa;</li>
+      <li>Priorização de tasks</li>
      </ul></li>
   </ul>
   <br>
   <h3 align="justify">Hard Skills</h3>
-  <br>
   <ul>
     <li>Java Spring Boot (Sei utilizar com ajuda):
     <ul>
@@ -49,6 +50,12 @@
       <li>Integração do back-front;</li>   
       <li>Implementação e consumo de API's;</li>
       </ul></li>
+     <li>SQL Developer (Aprendi a utilizar com autonomia):
+     <ul>
+       <li>Criação do banco de dados;</li>
+       <li>Manipulação de um banco de dados;</li>
+       <li>Manutenção e testes em um banco de dados;</li>
+     </ul></li>
   </ul>
     <h2 align="center"> Navegação :books:</h2>
   <p align="center">
