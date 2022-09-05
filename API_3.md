@@ -40,7 +40,6 @@
       <li>Priorização de tasks</li>
      </ul></li>
   </ul>
-  <br>
   <h3 align="justify">Hard Skills</h3>
   <ul>
     <li>Java Spring Boot (Sei utilizar com ajuda):
