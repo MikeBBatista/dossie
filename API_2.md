@@ -56,7 +56,7 @@
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
   
-  <h3 align="justify">Soft Skills<h3>
+  <h3 align="justify">Soft Skills</h3>
   <br>
     <ul>
     <li>Agile Scrum:
@@ -67,7 +67,7 @@
      </ul></li>
     </ul>
     <br>
-    <h3 align="justify">Hard Skills<h3>
+    <h3 align="justify">Hard Skills</h3>
     <ul>
     <li>Java (Aprendi a utilizar com autonomia):
     <ul>
@@ -78,12 +78,11 @@
       </ul></li>
     <br> 
     <li>MySQL (Aprendi a utilizar com autonomia):
-    <ul>
-      <li>Estrutura e arquitetura de código;</li>
-      <li>Construção de classes;</li>   
-      <li>Manipulação de objetos;</li>
-      <li>Criação de tela através do GUI Builder;</li>
-      </ul></li>
+     <ul>
+       <li>Criação do banco de dados;</li>
+       <li>CRUD de um banco de dados;</li>
+       <li>Manutenção e testes em um banco de dados;</li>
+     </ul></li>
   </ul>
   <h2 align="center"> Navegação :books:</h2>
   <p align="center">
