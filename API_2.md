@@ -76,7 +76,8 @@
       <li>Manipulação de objetos;</li>
       <li>Criação de tela através do GUI Builder;</li>
       </ul></li>
-         <li>MySQL (Aprendi a utilizar com autonomia):
+    <br> 
+    <li>MySQL (Aprendi a utilizar com autonomia):
     <ul>
       <li>Estrutura e arquitetura de código;</li>
       <li>Construção de classes;</li>   
