@@ -19,8 +19,9 @@
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
-  * [Java](https://www.java.com/pt_BR/)
-  * [MySQL](https://dev.mysql.com/doc/)
+  * [Java](https://www.java.com/pt_BR/): Linguagem de programação utilizada para construção de todo sistema;
+  * [MySQL](https://dev.mysql.com/doc/): Utilizado para criação e manipulação do Banco de dados;
+  * [Jira](https://www.atlassian.com/software/jira): Utilizado para registro das tasks;
   
   ---
   
@@ -53,7 +54,10 @@
     <p align="justify" style="font-family:roboto;">O projeto do segundo semestre deixa claro as intenções da instituição de forçar o aluno a desafiar os conhecimentos passados pelos professores. Todo conteúdo dado em sala de aula foi aplicado ao projeto, mas para sua execução ainda foi necessário vontade, criatividade e curiosidade por parte dos estudantes, pois muitas vezes o conhecimento passado pelos professores era limitado propositalmente para instigar ao aluno autonomia em suas pesquisas, sempre podendo contar com o auxílio do corpo acadêmico da instituição para esclarecimento de eventuais dúvidas.</p>
   ---
    
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
+  
+  <h3 align="justify">Soft Skills<h3>
+  <br>
     <ul>
     <li>Agile Scrum:
     <ul>
@@ -61,7 +65,18 @@
       <li>Organização e acompanhamento regular do desenvolvimento;</li>   
       <li>Equipe trabalhando como Squad;</li>
      </ul></li>
-    <li>Java:
+    </ul>
+    <br>
+    <h3 align="justify">Hard Skills<h3>
+    <ul>
+    <li>Java (Aprendi a utilizar com autonomia):
+    <ul>
+      <li>Estrutura e arquitetura de código;</li>
+      <li>Construção de classes;</li>   
+      <li>Manipulação de objetos;</li>
+      <li>Criação de tela através do GUI Builder;</li>
+      </ul></li>
+         <li>MySQL (Aprendi a utilizar com autonomia):
     <ul>
       <li>Estrutura e arquitetura de código;</li>
       <li>Construção de classes;</li>   
