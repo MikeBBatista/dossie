@@ -1,6 +1,7 @@
 
  <h1 align="center"> API 3º Semestre - 01/2021</h1>
   
+  <h2> Parceiro Acadêmico: <a href="https://embraer.com/">Embraer</a></h2>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"><b>AirPLAN</b> é uma aplicação web que tem como objetivo facilitar a criação e melhorar o controle na documentação de aeronaves. O projeto é uma parceria da instituição de ensino FATEC com a empresa Embraer, que em função da necessidade de uma aplicação automatizada recorre aos alunos da instituição para uma possível solução.</p>
     <p align="justify" style="font-family:roboto;">O principal objetivo do time foi desenvolver uma aplicação que integre três APIs independentes. Além disso, as ferramentas necessitam manter, customizar e versionar partes de arquivos em PDF, utilizando regras de negócio específicas para gerar documentos finais que dispõe as partes selecionadas.</p>
