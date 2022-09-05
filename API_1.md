@@ -55,10 +55,11 @@
   
   ---
    
-  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
-  
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
+ 
+ ###Soft Skills
   <ul>
-    <li>Agile Scrum:
+    <li>Agile Scrum (Consigo fazer com ajuda):
       <ul>
         <li>Primeiro contato com Scrum;</li>
         <li>Quebra de Tasks;</li>
@@ -66,6 +67,7 @@
         <li>Equipe trabalhando como Squad;</li>
       </ul>
      </li>
+   ###Hard Skills
    <li>Python:
      <ul>
        <li>Conhecimento da estrutura em Python;</li>
