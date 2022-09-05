@@ -1,6 +1,7 @@
 <html>
 <body>
  <h1 align="center"> API 1º Semestre - 01/2020</h1>
+ <h2> Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></h2>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
   <p align="justify" style="font-family:roboto;"><b>Apolo</b> é um assistente virtual web com funcionalidades ativadas por voz. Como API do primeiro semestre, existiu uma flexibilização maior quanto as funcionalidades e o conceito atribuído para a aplicação. Apolo foi criado pensando no contexto estudantil, visando ajudar um estudante a se organizar quanto seus estudos.</p>
