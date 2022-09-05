@@ -29,6 +29,7 @@
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
   
+  <h3 align="justify">Soft Skills</h3>
   <ul>
     <li>Agile Scrum:
     <ul>
@@ -36,8 +37,14 @@
       <li>Organização e acompanhamento regular do desenvolvimento;</li>   
       <li>Equipe trabalhando como Squad;</li>
      </ul></li>
-    <li>Spring Boot:
+  </ul>
+  <br>
+  <h3 align="justify">Hard Skills</h3>
+  <br>
+  <ul>
+    <li>Java Spring Boot (Sei utilizar com ajuda):
     <ul>
+     <li>Construção da lógica do sistema;</li>
       <li>Estrutura e arquitetura do framework;</li>
       <li>Integração do back-front;</li>   
       <li>Implementação e consumo de API's;</li>
