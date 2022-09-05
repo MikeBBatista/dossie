@@ -11,12 +11,11 @@
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
   
-  * [Java](https://www.java.com/pt_BR/)
-  * [SQL](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
-  * [Spring Boot](https://spring.io/)
-  * [Miro](https://mockflow.com/apps/wireframepro/)
-  * [Trello](https://trello.com/pt-BR)
-  * [StackEdit](https://stackedit.io/)
+  * [Java](https://www.java.com/pt_BR/): Linguagem de programação utilizada para criação do sistema;
+  * [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html): Utilizada para criação e manipulação do Banco de dados;
+  * [Spring Boot](https://spring.io/): Framework utilizada para facilitação do desenvolviment;
+  * [Miro](https://mockflow.com/apps/wireframepro/): Utilizado para criação de protótipos de tela;
+  * [Trello](https://trello.com/pt-BR): Utilizado para criação, distribuição e acompanhamento das tasks;
   
   ---
   
