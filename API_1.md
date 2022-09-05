@@ -21,11 +21,11 @@
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
   
-  * [Python](https://docs.python.org/3/index.html)
-  * [JavaScript](https://www.javascript.com/)
-  * [DJango](https://docs.djangoproject.com/en/4.0/)
-  * [MySQL](https://dev.mysql.com/doc/)
-  * [AWS](https://aws.amazon.com/pt/relational-database/)
+  * [Python](https://docs.python.org/3/index.html): Linguagem de programação utilizada pra comunicação com o banco;
+  * [JavaScript](https://www.javascript.com/): Linguagem de programação utilizada para manipular as telas do projeto;
+  * [DJango](https://docs.djangoproject.com/en/4.0/): Framework utilizada para melhor integração back/front;
+  * [MySQL](https://dev.mysql.com/doc/): Para criação do banco que guarda as informações de CRUD;
+  * [AWS](https://aws.amazon.com/pt/relational-database/): Hospedagem da API de sugestão de filmes;
   
   ---
   
@@ -57,9 +57,10 @@
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
- ###Soft Skills
+ <h3 align="justify">Soft Skills</h3>
+ <br>
   <ul>
-    <li>Agile Scrum (Consigo fazer com ajuda):
+    <li>Agile Scrum:
       <ul>
         <li>Primeiro contato com Scrum;</li>
         <li>Quebra de Tasks;</li>
@@ -67,29 +68,31 @@
         <li>Equipe trabalhando como Squad;</li>
       </ul>
      </li>
-   ###Hard Skills
-   <li>Python:
+   <br>
+   <h3 align="justify">Hard Skills</h3>
+   <br>
+   <li>Python (Aprendi a utilizar com autonomia):
      <ul>
        <li>Conhecimento da estrutura em Python;</li>
        <li>Aplicação de lógica na aplicação em Python;</li>
        <li>Importação de bibliotecas;</li>
      </ul>
     </li>
-    <li>Django:
+    <li>Django (Sei utilizar com ajuda):
      <ul>
        <li>Conhecimento da arquitetura da Framework;</li>
        <li>Integração front/back;</li>
        <li>Utilização de API's;</li>
      </ul>
     </li>
-       <li>MySQL:
+       <li>MySQL (Aprendi a utilizar com autonomia):
      <ul>
        <li>Criação do banco de dados;</li>
        <li>CRUD de um banco de dados;</li>
        <li>Manutenção e testes em um banco de dados;</li>
      </ul>
     </li>
-      <li>Git:
+      <li>Git (Aprendi a utilizar com autonomia):
      <ul>
        <li>Versionamento do projeto;</li>
        <li>Projeto com diversos desenvolvedores;</li>
