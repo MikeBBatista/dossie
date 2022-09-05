@@ -1,5 +1,6 @@
  <h1 align="center"> API 2º Semestre - 02/2020</h1>
   
+  <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS</a></h2>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
 <p align="justify" style="font-family:roboto;"><b>POC (Processos Otimizados de Contas)</b> é uma aplicação desktop criada para facilitar a inserção ou modificação de dados referentes a contas de luz e água de uma empresa, afim de gerar um relatório detalhado de seus consumos. A aplicação visa auxiliar o usuário a cadastrar as informações mais pertinentes encontradas em cada conta, e também em auxiliar na geração de relatórios sobre a contribuição de cada usuário para inserção ou modificação dos dados.</p>
