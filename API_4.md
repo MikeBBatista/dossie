@@ -27,19 +27,9 @@
  <p align="justify" style="font-family:roboto;">Outra facilitação permitida pelo Angular, foi a prototipagem do projeto sem dependência do back-end utilizando o MirageJS, que é uma tecnologia que permite mockar (simular) dados para realização das funcionalidades do front, como preencher um gráfico com dados ou submeter um formulário com dados para uma base. Com o MirageJS eu pude desenvolver de forma autônoma, realizando os testes antes mesmo de ter as API's desenvolvidas no back-end.</p>
    <details>
   <summary>Interface da aplicação</summary>
-  <br>
-   <h3 align="center">Tela de login e menu</h3>
    <p align="center">
-   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>    </p>
-   <br>
-   <h3 align="center">Tela de criar anotação</h3>
-   <p align="center">
-    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
-   </p>
-   <br>
-   <h3 align="center">Tela de calculadora</h3>
-   <p align="center">
-    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323363-f2fabc10-9619-4292-8a01-1b54899cc396.gif" alt=""/>
+     <video src="https://user-images.githubusercontent.com/61523979/189658833-ef25e07d-417e-4832-8a5b-7613ce5d8853.mp4" controls="controls" style="max-rate: 730px;">
+     </video>  
    </p>
   </details>
  <p align="justify" style="font-family:roboto;">Esse projeto foi o que mais pude demonstrar meu conhecimento, demonstrando grande diferença de crescimento entre os semestres anteriores, apesar de existirem pontos para melhoria, esse é um exemplo de projeto em que não tive quaisquer dificuldade para executar.</p>
