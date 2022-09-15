@@ -61,8 +61,8 @@
       </ul>
      </li>
    </ul>
+ <br>
   <h3 align="justify">Hard Skills</h3>
-  <br>
   <ul>
      <li>Pré processador de CSS:
   <ul>
