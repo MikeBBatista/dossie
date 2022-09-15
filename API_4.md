@@ -50,7 +50,6 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
  <h3 align="justify">Soft Skills</h3>
- <br>
   <ul>
     <li>Agile Scrum:
       <ul>
