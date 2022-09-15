@@ -71,12 +71,14 @@
     <li>Organização de código do CSS;</li>   
     <li>Padronização de variáveis reutilizaveis;</li>
     </ul></li>
+   <br>
    <li>Integração front-back:
   <ul>
     <li>Configuração de chamadas das API's;</li>
     <li>Implementação e consumo dos serviços da API;</li>   
     <li>Envio de resposta para o back-end;</li>
     </ul></li>
+   <br>
    <li>Criação de serviço do tipo Mock:
   <ul>
     <li>Aplicação do MirageJS no projeto;</li>
