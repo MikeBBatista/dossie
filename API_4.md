@@ -63,21 +63,21 @@
  <br>
   <h3 align="justify">Hard Skills</h3>
   <ul>
-     <li>Pré processador de CSS:
+     <li>Pré processador de CSS (Aprendi a fazer com autonomia):
   <ul>
     <li>Variáveis e escopo no CSS;</li>
     <li>Organização de código do CSS;</li>   
     <li>Padronização de variáveis reutilizaveis;</li>
     </ul></li>
    <br>
-   <li>Integração front-back:
+   <li>Integração front-back (Aprendi a fazer com autonomia):
   <ul>
     <li>Configuração de chamadas das API's;</li>
     <li>Implementação e consumo dos serviços da API;</li>   
     <li>Envio de resposta para o back-end;</li>
     </ul></li>
    <br>
-   <li>Criação de serviço do tipo Mock:
+   <li>Criação de serviço do tipo Mock (Aprendi a fazer com autonomia):
   <ul>
     <li>Aplicação do MirageJS no projeto;</li>
     <li>Implementação e consumo de uma fake API através do MirageJS;</li>   
