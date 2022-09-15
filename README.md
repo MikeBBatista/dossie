@@ -55,14 +55,10 @@
 ---
 
  <h2 align="center"> Meus Projetos :books:</h2>
-  <p align="center">
-   <a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md"> Projeto Apollo</a> •
-    <a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md"> Projeto POC</a></a> •
-    <a href="https://github.com/MikeBBatista/dossie/blob/main/API_3.md"> Projeto AirPLAN</a></a> •
-   <a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md"> Projeto #VEMPRACASA</a> •
-   <a href=""> 5º Semestre</a></a> •
-   <a href=""> 6º Semestre</a></a>
-  </p>
+  <p align="justify" style="font-family:roboto;"><a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md">Projeto Apollo - O assistente do virtual por comando de voz</a></p>
+  <p align="justify" style="font-family:roboto;"><a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md">Projeto POC - A simplificação para lidar com formulários</a></p>
+  <p align="justify" style="font-family:roboto;"><a href="https://github.com/MikeBBatista/dossie/blob/main/API_3.md">Projeto AirPLAN - A desmistificação dos documentos de aeronave/a></p>
+  <p align="justify" style="font-family:roboto;"><a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md">Projeto #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></p>
 
 </body>
 </html>
