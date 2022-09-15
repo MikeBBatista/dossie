@@ -22,9 +22,27 @@
   ---
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-  <p align="justify" style="font-family:roboto;">Sendo este o projeto integrador do primeiro semestre de Banco de Dados, é evidente a maior flexibilização e liberdade para que os alunos possam escolher a tecnologia de sua preferência, assim como o auxílio de masters, que eram alunos do sexto semestre do curso. Para a execução do projeto Apolo, meu grupo ponderou quanto o conhecimento geral de cada um, e quais aulas eram disponibilizadas no primeiro semestre.</p>
- <p align="justify" style="font-family:roboto;">Como as aulas apresentavam Python para realização do estudo de algoritmos, decidimos que seria interessante a utilização da linguagem para o projeto, e como eu já tinha conhecimento básico em Javascript, a utilização da linguagem também foi escolhida para realização da interface do projeto.</p>
-  <p align="justify" style="font-family:roboto;">Como eu possuia conhecimento prévio, uma das minhas funções foi ajudar no nivelamento da equipe quanto ao conhecimento das tecnologias. Apesar de só ter conhecimento do básico, fui capaz de realizar a construção das telas utilizando de HTML, CSS e Javascript, e de fazer a comunicação Back - Front, utilizando Django na passagem de parâmetros principalmente dos formulários.</p>
+<p align="justify" style="font-family:roboto;">O #VEMPRACASA é um projeto web, e como tal existem inúmeras maneiras de se abordar seu desenvolvimento. Diante das diversas tecnologias existentes, a equipe optou pela framework Angular. Apesar de existirem outras tecnologias, como VueJS e ReactJS, que são outras duas frameworks de frontend com facilitações na criação de projetos web, a escolha foi fundamentada no meu conhecimento prévio quanto a tecnologia.</p>
+ <p align="justify" style="font-family:roboto;">Com o Angular, todo o front-end foi construido por componentes, permitindo o reuso dos mesmos em várias telas sem a necessidade de repetição de código. A chamada dos componentes no angular funciona de forma muito parecida com uma função nas linguagens de programação, onde eu só preciso chamar o componente onde quero utiliza-lo.</p>
+ <p align="justify" style="font-family:roboto;">Outra facilitação permitida pelo Angular, foi a prototipagem do projeto sem dependência do back-end utilizando o MirageJS, que é uma tecnologia que permite mockar (simular) dados para realização das funcionalidades do front, como preencher um gráfico com dados ou submeter um formulário com dados para uma base. Com o MirageJS eu pude desenvolver de forma autônoma, realizando os testes antes mesmo de ter as API's desenvolvidas no back-end.</p>
+   <details>
+  <summary>Interface da aplicação</summary>
+  <br>
+   <h3 align="center">Tela de login e menu</h3>
+   <p align="center">
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323231-ea814f19-643c-4c87-98d0-a20e2a83ff56.gif" alt=""/>    </p>
+   <br>
+   <h3 align="center">Tela de criar anotação</h3>
+   <p align="center">
+    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323406-58d1b662-01e5-4fa7-9602-40146124a96a.gif" alt=""/>
+   </p>
+   <br>
+   <h3 align="center">Tela de calculadora</h3>
+   <p align="center">
+    <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/188323363-f2fabc10-9619-4292-8a01-1b54899cc396.gif" alt=""/>
+   </p>
+  </details>
+ <p align="justify" style="font-family:roboto;">Esse projeto foi o que mais pude demonstrar meu conhecimento, demonstrando grande diferença de crescimento entre os semestres anteriores, apesar de existirem pontos para melhoria, esse é um exemplo de projeto em que não tive quaisquer dificuldade para executar.</p>
  
   <details>
   <summary>Interface da aplicação</summary>
