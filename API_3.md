@@ -57,11 +57,7 @@
      </ul></li>
   </ul>
     <h2 align="center"> Navegação :books:</h2>
-  <p align="center">
-   <a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md"> 1º Semestre</a></a> •
-   <a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md"> 2º Semestre</a></a> •
-   <a href="https://github.com/MikeBBatista/dossie/blob/main/README.md"> Página Inicial</a> •
-   <a href=""> 4º Semestre</a> •
-   <a href=""> 5º Semestre</a></a> •
-   <a href=""> 6º Semestre</a></a>
-  </p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md">Projeto Apollo - O assistente do virtual por comando de voz</a></li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md">Projeto POC - A simplificação para lidar com formulários</a></li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md">Projeto #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/README.md">Voltar para página inicial</a></li></p>
