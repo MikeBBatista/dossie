@@ -78,6 +78,7 @@
        <li>Importação de bibliotecas;</li>
      </ul>
     </li>
+    <br>
     <li>Django (Sei utilizar com ajuda):
      <ul>
        <li>Conhecimento da arquitetura da Framework;</li>
@@ -85,6 +86,7 @@
        <li>Utilização de API's;</li>
      </ul>
     </li>
+   <br>
        <li>MySQL (Aprendi a utilizar com autonomia):
      <ul>
        <li>Criação do banco de dados;</li>
@@ -92,6 +94,7 @@
        <li>Manutenção e testes em um banco de dados;</li>
      </ul>
     </li>
+   <br>
       <li>Git (Aprendi a utilizar com autonomia):
      <ul>
        <li>Versionamento do projeto;</li>
