@@ -69,9 +69,7 @@
       </ul>
      </li>
    </ul>
-   <br>
    <h3 align="justify">Hard Skills</h3>
-   <br>
   <ul>
    <li>Python (Aprendi a utilizar com autonomia):
      <ul>
