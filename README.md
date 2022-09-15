@@ -55,10 +55,10 @@
 ---
 
  <h2 align="center"> Meus Projetos :books:</h2>
-  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md">Projeto Apollo - O assistente do virtual por comando de voz</a><li></p>
-  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md">Projeto POC - A simplificação para lidar com formulários</a><li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md">Projeto Apollo - O assistente do virtual por comando de voz</a></li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md">Projeto POC - A simplificação para lidar com formulários</a></li></p>
   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_3.md">Projeto AirPLAN - A desmistificação dos documentos de aeronave</a></li></p>
-  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md">Projeto #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a><li></p>
+  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md">Projeto #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
 
 </body>
 </html>
