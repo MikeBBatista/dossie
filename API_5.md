@@ -42,9 +42,9 @@
  
  <h3 align="justify">Soft Skills</h3>
  
-  * Comunicação: Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
-  * Flexibilidade E Resiliência: Apesar da boa comunicação, as vezes era idealizado por mim uma forma de envio principalmente quanto aos formulários, que para o backend não era tão amistoso, por isso muitas vezes precisei repensar meu método de elaboração para que houvesse uma integração facilitada;
-  * Trabalho em Equipe: O trabalho em equipe foi indispensável para realização da integração do back-front, sem isso eu nunca teria sido capaz de finalizar as chamadas de API contidas na aplicação.
+ * <b>Comunicação:</b> Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
+ * <b>Flexibilidade E Resiliência:</b> Apesar da boa comunicação, as vezes era idealizado por mim uma forma de envio principalmente quanto aos formulários, que para o backend não era tão amistoso, por isso muitas vezes precisei repensar meu método de elaboração para que houvesse uma integração facilitada;
+ * <b>Trabalho em Equipe:</b> O trabalho em equipe foi indispensável para realização da integração do back-front, sem isso eu nunca teria sido capaz de finalizar as chamadas de API contidas na aplicação.
  * <b>Proatividade:</b> Como a equipe é composta por um número limitado de pessoas, precisei demonstrar maior proatividade ao realizar a construção do front-end como único front developer.
  <br>
   <h3 align="justify">Hard Skills</h3>
