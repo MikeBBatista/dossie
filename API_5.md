@@ -13,26 +13,28 @@
   * [Spring Boot](https://spring.io/): Framework de Java para facilitação do desenvolvimento do back-end;
   * [Typescript](https://www.javascript.com/): Linguagem base para desenvolvimento do front-end;
   * [VueJS](https://vuejs.org): Framework que aceita a utilização do Typescript para facilitação do desenvolvimento do front-end, escolhido principalmente porque foi apresentado em sala de aula no semestre em questão;
-  * [MirageJS](https://miragejs.com/): Tecnologia utilizada para simular a utilização de um banco de dados sem a necessidade de um back-end;
-  * [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html): Ferramenta utilizada para atender as demandas referentes ao banco de dados da aplicação;
+  * [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads): Ferramenta utilizada para atender as demandas referentes ao banco de dados relacional da aplicação;
+  * [CircleCI](https://circleci.com): Plataforma utilizada para implementação de práticas DevOps. Foi utilizada no projeto para supervisionar a qualidade do desenvolvimento;
+  * [Power BI](https://powerbi.microsoft.com/pt-br/): Serviço de análise de dados. Utilizado na aplicação para demonstração de dados em formato de gráficos;
+  * [Microsoft Azure](https://azure.microsoft.com/pt-br/services/sql-database/campaign/#overview): É uma plataforma destinada à execução de aplicativos e serviços, baseada nos conceitos da computação em nuvem. Foi utilizado para deploy do banco de dados SQL Server;
+  * [SQL Server Integration Service](https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver15): Serviço utilizado na aplicação para construção do ETL (Extract, Transform, Load) do banco de dados relacional para o Data Warehouse;
   * [Figma](https://www.figma.com/): Ferramenta utilizada para criação das telas pensando na melhor usabilidade da aplicação;
   * [Jira](https://vempracasa.atlassian.net/): Plataforma utilizada para cadastro e monitoramento das atividades realizadas pelo time;
-  * [Oracle Cloud](https://www.oracle.com/br/cloud/): Um serviço em nuvem que foi utilizado para realizar o deploy do back-end e banco de dados
   * [Heroku](https://www.heroku.com/platform): É uma plataforma em nuvem com um serviço que suporta várias linguagens de programação, nela foi realizado o deploy do Front-End da aplicação.
   ---
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-<p align="justify" style="font-family:roboto;">O #VEMPRACASA é um projeto web, e como tal existem inúmeras maneiras de se abordar seu desenvolvimento. Diante das diversas tecnologias existentes, a equipe optou pela framework Angular. Apesar de existirem outras tecnologias, como VueJS e ReactJS, que são outras duas frameworks de frontend com facilitações na criação de projetos web, a escolha foi fundamentada no meu conhecimento prévio quanto a tecnologia.</p>
- <p align="justify" style="font-family:roboto;">Com o Angular, todo o front-end foi construido por componentes, permitindo o reuso dos mesmos em várias telas sem a necessidade de repetição de código. A chamada dos componentes no angular funciona de forma muito parecida com uma função nas linguagens de programação, onde eu só preciso chamar o componente onde quero utiliza-lo.</p>
- <p align="justify" style="font-family:roboto;">Outra facilitação permitida pelo Angular, foi a prototipagem do projeto sem dependência do back-end utilizando o MirageJS, que é uma tecnologia que permite mockar (simular) dados para realização das funcionalidades do front, como preencher um gráfico com dados ou submeter um formulário com dados para uma base. Com o MirageJS eu pude desenvolver de forma autônoma, realizando os testes antes mesmo de ter as API's desenvolvidas no back-end.</p>
+<p align="justify" style="font-family:roboto;">Diferente dos projetos anteriores, o projeto em conjunto com a SPC Brasil não é apenas um projeto web, ele também é composto por uma análise de dados utilizando o PowerBI. Por isso, antes de iniciar o desenvolvimento referente ao front-end, foi necessário pensar na melhor de demonstrar os dados.</p>
+ <p align="justify" style="font-family:roboto;">Utilizando do conhecimento dos projetos e experiências prévias, foi constatado que em conjunto com o VueJS seria aplicada a utilização de uma biblioteca de UI (User Interface) Syncfusion. Essa biblioteca consiste em uma enorme variedade de componentes pré construidos para utilização no VueJS. Para nossa aplicação, utilizamos principalmente, mas não unicamente, dos gráficos contidos no Syncfusion, que facilitaram a demonstração dos dados para o usuário em nossa aplicação.</p>
+ <p align="justify" style="font-family:roboto;">Diferente do Angular que foi utilizado no projeto anterior, o VueJS não tem uma estrutura sólida e rígida, permitindo uma facilitação na fuga das boas práticas. Por isso nesse projeto, utilizei da mesma estrutura de projeto encontrada como padrão no Angular, sempre separando em componentes reaproveitaveis. Um conceito novo que apliquei nesse projeto foi o lazy loading, técnica que consiste em importar apenas os objetos solicitados, impedindo qualquer outro de carregar até que seja requisitado.</p>
    <details>
   <summary>Interface da aplicação</summary>
    <p align="center">
-     <video src="https://user-images.githubusercontent.com/61523979/189658833-ef25e07d-417e-4832-8a5b-7613ce5d8853.mp4" controls="controls" style="max-rate: 730px;">
+     <video src="https://user-images.githubusercontent.com/61523979/191330258-23a1ef9d-3dce-4f9e-bc2d-ffdb15ee8fda.mp4" controls="controls" style="max-rate: 730px;">
      </video>  
    </p>
   </details>
- <p align="justify" style="font-family:roboto;">Esse projeto foi o que mais pude demonstrar meu conhecimento, demonstrando grande diferença de crescimento entre os semestres anteriores, apesar de existirem pontos para melhoria, esse é um exemplo de projeto em que não tive quaisquer dificuldade para executar.</p>
+ <p align="justify" style="font-family:roboto;">A maior dificuldade do projeto foi assimilar o conhecimento de VueJS de forma que não houvesse débitos técnicos para o futuro da aplicação. Fui capaz de compreender conceitos novos, que se aplicam não só a Vue, como é o caso do lazy loading.</p>
  
   ---
    
@@ -52,32 +54,27 @@
  <br>
   <h3 align="justify">Hard Skills</h3>
   <ul>
-     <li>Pré processador de CSS (Aprendi a fazer com autonomia):
+     <li>VueJS (Aprendi a fazer com autonomia):
   <ul>
-    <li>Variáveis e escopo no CSS;</li>
-    <li>Organização de código do CSS;</li>   
-    <li>Padronização de variáveis reutilizaveis;</li>
+    <li>Estrutura de projeto;</li>
+    <li>Reutilização de componentes;</li>   
+    <li>Compreensão e utilização de Lifecycle Hooks</li>
     </ul></li>
    <br>
-   <li>Integração front-back (Aprendi a fazer com autonomia):
+   <li>Integração front-back utilizando o VueJS (Aprendi a fazer com autonomia):
   <ul>
     <li>Configuração de chamadas das API's;</li>
     <li>Implementação e consumo dos serviços da API;</li>   
     <li>Envio de resposta para o back-end;</li>
     </ul></li>
    <br>
-   <li>Criação de serviço do tipo Mock (Aprendi a fazer com autonomia):
-  <ul>
-    <li>Aplicação do MirageJS no projeto;</li>
-    <li>Implementação e consumo de uma fake API através do MirageJS;</li>   
-    <li>Criação e manipulação de dados "mockados";</li>
-    </ul></li>
   </ul>
   </ul>
   <h2 align="center"> Navegação :books:</h2>
  <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_1.md">Projeto Apollo - O assistente virtual por comando de voz</a></li></p>
   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_2.md">Projeto POC - A simplificação para lidar com formulários</a></li></p>
   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_3.md">Projeto AirPLAN - O software que simplifica o tratamento dos documentos de aeronave</a></li></p>
+ <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/API_4.md">Projeto #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/MikeBBatista/dossie/blob/main/README.md">Voltar para página inicial</a></li></p>
   
 </body>
