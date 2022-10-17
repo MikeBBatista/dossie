@@ -41,16 +41,10 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
  <h3 align="justify">Soft Skills</h3>
-  <ul>
-    <li>Agile Scrum:
-      <ul>
-        <li>Primeiro contato com Scrum;</li>
-        <li>Quebra de Tasks;</li>
-        <li>Organização e acompanhamento regular do desenvolvimento;</li>   
-        <li>Equipe trabalhando como Squad;</li>
-      </ul>
-     </li>
-   </ul>
+  * Comunicação: Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
+  * Flexibilidade E Resiliência: Apesar da boa comunicação, as vezes era idealizado por mim uma forma de envio principalmente quanto aos formulários, que para o backend não era tão amistoso, por isso muitas vezes precisei repensar meu método de elaboração para que houvesse uma integração facilitada;
+  * Trabalho em Equipe: O trabalho em equipe foi indispensável para realização da integração do back-front, sem isso eu nunca teria sido capaz de finalizar as chamadas de API contidas na aplicação.
+  * Proatividade: Como a equipe é composta por um número limitado de pessoas, precisei demonstrar maior proatividade ao realizar a construção do front-end como único front developer.
  <br>
   <h3 align="justify">Hard Skills</h3>
   <ul>
@@ -68,12 +62,12 @@
     <li>Envio de resposta para o back-end;</li>
     </ul></li>
    <br>
-   <li>Agile Scrum:
+   <li>Agile Scrum (Aprendi a fazer com autonomia):
     <ul>
-      <li>Primeiro contato com Scrum;</li>
-      <li>Quebra de Tasks;</li>
+      <li>Maior domínio do método;</li>
+      <li>Quebra de Tasks mais detalhadas;</li>
       <li>Organização e acompanhamento regular do desenvolvimento;</li>   
-      <li>Equipe trabalhando como Squad;</li>
+      <li>Equipe trabalhando e se comunicando ativamente;</li>
      </ul></li>
   </ul>
   </ul>
