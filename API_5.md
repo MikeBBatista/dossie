@@ -68,6 +68,13 @@
     <li>Envio de resposta para o back-end;</li>
     </ul></li>
    <br>
+   <li>Agile Scrum:
+    <ul>
+      <li>Primeiro contato com Scrum;</li>
+      <li>Quebra de Tasks;</li>
+      <li>Organização e acompanhamento regular do desenvolvimento;</li>   
+      <li>Equipe trabalhando como Squad;</li>
+     </ul></li>
   </ul>
   </ul>
   <h2 align="center"> Navegação :books:</h2>
