@@ -5,6 +5,13 @@
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O projeto é uma parceria entre a <a href="https://www.spcbrasil.org.br">SPC Brasil</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um sistema capaz de centralizar os dados através de um Data Warehouse utilizando do mesmo para geração de análises e reports indicando para empresa a melhor abordagem e concentração de recursos afim de prospectar novos clientes e aumentar o consumo de seus produtos.</p>
   <p align="justify" style="font-family:roboto;">Nessa documentação será abordado o projeto da visão do desenvolvedor front-end, para mais informações gerais sobre o projeto <a href="https://github.com/API5Sem22/API5Doc">clique aqui</a></p>
+    <details>
+  <summary>Interface da aplicação</summary>
+   <p align="center">
+     <video src="https://user-images.githubusercontent.com/61523979/191330258-23a1ef9d-3dce-4f9e-bc2d-ffdb15ee8fda.mp4" controls="controls" style="max-rate: 730px;">
+     </video>  
+   </p>
+  </details>
   ---
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
@@ -24,16 +31,10 @@
   ---
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-<p align="justify" style="font-family:roboto;">Diferente dos projetos anteriores, o projeto em conjunto com a SPC Brasil não é apenas um projeto web, ele também é composto por uma análise de dados utilizando o PowerBI. Por isso, antes de iniciar o desenvolvimento referente ao front-end, foi necessário pensar na melhor de demonstrar os dados.</p>
- <p align="justify" style="font-family:roboto;">Utilizando do conhecimento dos projetos e experiências prévias, foi constatado que em conjunto com o VueJS seria aplicada a utilização de uma biblioteca de UI (User Interface) Syncfusion. Essa biblioteca consiste em uma enorme variedade de componentes pré construidos para utilização no VueJS. Para nossa aplicação, utilizamos principalmente, mas não unicamente, dos gráficos contidos no Syncfusion, que facilitaram a demonstração dos dados para o usuário em nossa aplicação.</p>
- <p align="justify" style="font-family:roboto;">Diferente do Angular que foi utilizado no projeto anterior, o VueJS não tem uma estrutura sólida e rígida, permitindo uma facilitação na fuga das boas práticas. Por isso nesse projeto, utilizei da mesma estrutura de projeto encontrada como padrão no Angular, sempre separando em componentes reaproveitaveis. Um conceito novo que apliquei nesse projeto foi o lazy loading, técnica que consiste em importar apenas os objetos solicitados, impedindo qualquer outro de carregar até que seja requisitado.</p>
-   <details>
-  <summary>Interface da aplicação</summary>
-   <p align="center">
-     <video src="https://user-images.githubusercontent.com/61523979/191330258-23a1ef9d-3dce-4f9e-bc2d-ffdb15ee8fda.mp4" controls="controls" style="max-rate: 730px;">
-     </video>  
-   </p>
-  </details>
+<p align="justify" style="font-family:roboto;">Diferente dos projetos anteriores, o projeto em conjunto com a SPC Brasil não é apenas um projeto web, ele também é composto por uma análise de dados utilizando o PowerBI. Por isso, antes de iniciar o desenvolvimento referente ao front-end, foi necessário pensar na melhor forma de apresentar os dados.</p>
+ <p align="justify" style="font-family:roboto;">Utilizando do conhecimento dos projetos e experiências prévias, constatei que em conjunto com o VueJS seria necessário aplicar a utilização de uma biblioteca de UI (User Interface) Syncfusion. Essa biblioteca consiste em uma enorme variedade de componentes pré construidos para utilização no VueJS. Para nossa aplicação,utilizei principalmente, mas não unicamente, dos gráficos contidos no Syncfusion, que facilitaram a demonstração dos dados para o usuário em nossa aplicação.</p>
+ <p align="justify" style="font-family:roboto;">Diferente do Angular, tecnologia utilizada no projeto do semestre passado, o VueJS não tem uma estrutura sólida e rígida, permitindo uma facilitação na fuga das boas práticas. Por isso nesse projeto, utilizei da mesma estrutura de projeto encontrada como padrão no Angular, sempre separando em componentes reaproveitaveis. Um conceito novo que apliquei nesse projeto foi o lazy loading, técnica que consiste em importar apenas os objetos solicitados, impedindo qualquer outro de carregar até que seja requisitado.</p>
+ <p align="justify" style="font-family:roboto;">Como minha responsabilidade era o cuidado com o front-end, as tarefas pertinentes quanto a integração com o back e da apresentação dos dados de forma correta na nossa aplicação também foram incubidas a mim. Assim sendo, todo contato do cliente e sua experiência como usuário ao site da aplicação foi feito por mim.</p>
  <p align="justify" style="font-family:roboto;">A maior dificuldade do projeto foi assimilar o conhecimento de VueJS de forma que não houvesse débitos técnicos para o futuro da aplicação. Fui capaz de compreender conceitos novos, que se aplicam não só a Vue, como é o caso do lazy loading.</p>
  
   ---
