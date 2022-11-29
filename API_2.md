@@ -59,6 +59,7 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
   
   <h3 align="justify">Soft Skills</h3>
+   
    * <b>Comunicação:</b> Como esse projeto não possuiu a ajuda de alunos mais experientes, foi necessário muita comunicação para que todas as tarefas fossem realizadas;
  
    * <b>Flexibilidade E Resiliência:</b> Novos integrantes foram escolhidos para fazer parte da equipe, assim como outros acabaram por sair no meio do projeto, por conta disso foi necessário ser flexível e resiliente;
