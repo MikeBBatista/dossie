@@ -2,6 +2,7 @@
 <body>
  <h1 align="center"> API 6º Semestre - 02/2022</h1>
  <h2> Parceiro Acadêmico: <a href="https://www.domrock.net/">Dom Rock</a></h2>
+   <p align="justify" style="font-family:roboto;">A plataforma Dom Rock permite a captura de dados não estruturados e estruturados de forma automatizada e promove a visualização otimizada de análises, informações e dados que viabilizam ganhos recorrentes para diversas áreas de negócios das empresas. Por sua área de atuação a Fatec buscou realizar um projeto em parceria com a empresa afim de estimular os alunos um cenário real de seu campo de formação.</p>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O projeto é uma parceria entre a <a href="https://www.domrock.net/">Dom Rock</a> e a FATEC São José dos Campos com a finalidade de desenvolver uma ferramenta capaz de armazenar, processar e relatar dados de mais de uma fonte. A equipe D-end ofereceu uma solução que é capaz de realizar o tratamento e correlação entre os dados afim de evidenciar quaisquer inconsistências entre os pagamentos das faturas quanto convênios médicos, que no caso, são os dados em necessidade de tratamento par o cliente.</p>
   <p align="justify" style="font-family:roboto;">Nessa documentação será abordado o projeto da minha visão como desenvolvedor, para mais informações gerais sobre o projeto <a href="https://github.com/API6Sem22/API6Doc">clique aqui</a></p>
