@@ -1,6 +1,8 @@
  <h1 align="center"> API 2º Semestre - 02/2020</h1>
   
   <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS</a></h2>
+  <p align="justify" style="font-family:roboto;">A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.</p>
+  ---
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
 <p align="justify" style="font-family:roboto;"><b>POC (Processos Otimizados de Contas)</b> é uma aplicação desktop criada para facilitar a inserção ou modificação de dados referentes a contas de luz e água de uma empresa, afim de gerar um relatório detalhado de seus consumos. A aplicação visa auxiliar o usuário a cadastrar as informações mais pertinentes encontradas em cada conta, e também em auxiliar na geração de relatórios sobre a contribuição de cada usuário para inserção ou modificação dos dados.</p>
@@ -57,6 +59,11 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
   
   <h3 align="justify">Soft Skills</h3>
+ * <b>Comunicação:</b> Como esse projeto não possuiu a ajuda de alunos mais experientes, foi necessário muita comunicação para que todas as tarefas fossem realizadas;
+ * <b>Flexibilidade E Resiliência:</b> Novos integrantes foram escolhidos para fazer parte da equipe, assim como outros acabaram por sair no meio do projeto, por conta disso foi necessário ser flexível e resiliente;
+ * <b>Proatividade:</b> Por conta do desfalque da equipe com membros saindo do curso durante o semestre, a proatividade foi necessária para realização de tasks que antes não estavam no meu escopo como integrante.
+ <br>
+    <h3 align="justify">Hard Skills</h3>
     <ul>
     <li>Agile Scrum:
     <ul>
@@ -65,8 +72,6 @@
       <li>Equipe trabalhando como Squad;</li>
      </ul></li>
     </ul>
-    <br>
-    <h3 align="justify">Hard Skills</h3>
     <ul>
     <li>Java (Aprendi a utilizar com autonomia):
     <ul>
