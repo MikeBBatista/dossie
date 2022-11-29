@@ -2,6 +2,7 @@
 <body>
  <h1 align="center"> API 5º Semestre - 01/2022</h1>
  <h2> Parceiro Acadêmico: <a href="https://www.spcbrasil.org.br">SPC Brasil</a></h2>
+ <p align="justify" style="font-family:roboto;">O SPC Brasil é uma empresa de tecnologia vinculada à CNDL (Confederação Nacional de Dirigentes Lojistas) para processar e armazenar todas as operações de crédito realizadas pelas empresas associadas.</p>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O projeto é uma parceria entre a <a href="https://www.spcbrasil.org.br">SPC Brasil</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um sistema capaz de centralizar os dados através de um Data Warehouse utilizando do mesmo para geração de análises e reports indicando para empresa a melhor abordagem e concentração de recursos afim de prospectar novos clientes e aumentar o consumo de seus produtos.</p>
   <p align="justify" style="font-family:roboto;">Nessa documentação será abordado o projeto da visão do desenvolvedor front-end, para mais informações gerais sobre o projeto <a href="https://github.com/API5Sem22/API5Doc">clique aqui</a></p>
