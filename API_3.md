@@ -2,6 +2,7 @@
  <h1 align="center"> API 3º Semestre - 01/2021</h1>
   
   <h2> Parceiro Acadêmico: <a href="https://embraer.com/">Embraer</a></h2>
+  <p align="justify" style="font-family:roboto;">A Embraer é a maior exportadora de produtos manufaturados de alta tecnologia do hemisfério sul e uma das maiores fabricantes de jatos comerciais. Graças a seu ramo de atuação e o campo de estudo oferecido pela Fatec, a parceria foi possível para formação de melhores profissionais pela faculdade.</p>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"><b>AirPLAN</b> é uma aplicação web que tem como objetivo facilitar a criação e melhorar o controle na documentação de aeronaves. O projeto é uma parceria da instituição de ensino FATEC com a empresa Embraer, que em função da necessidade de uma aplicação automatizada recorre aos alunos da instituição para uma possível solução.</p>
     <p align="justify" style="font-family:roboto;">O principal objetivo do time foi desenvolver uma aplicação que integre três APIs independentes. Além disso, as ferramentas necessitam manter, customizar e versionar partes de arquivos em PDF, utilizando regras de negócio específicas para gerar documentos finais que dispõe as partes selecionadas.</p>
@@ -31,10 +32,8 @@
   
   <h3 align="justify">Soft Skills</h3>
   
-   * <b>Comunicação:</b> Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
-   * <b>Flexibilidade E Resiliência:</b> Apesar da boa comunicação, as vezes era idealizado por mim uma forma de envio principalmente quanto aos formulários, que para o backend não era tão amistoso, por isso muitas vezes precisei repensar meu método de elaboração para que houvesse uma integração facilitada;
-   * <b>Trabalho em Equipe:</b> O trabalho em equipe foi indispensável para realização da integração do back-front, sem isso eu nunca teria sido capaz de finalizar as chamadas de API contidas na aplicação.
-   * <b>Proatividade:</b> Como a equipe é composta por um número limitado de pessoas, precisei demonstrar maior proatividade ao realizar a construção do front-end como único front developer.
+   * <b>Comunicação:</b> Mais um projeto com uma nova equipe, com diversos membros se conhecendo e trocando informações, por isso era indispensável se comunicar de forma clara;
+   * <b>Ética No Trabalho:</b> Durante o projeto ocorreram desavenças entre os membros das equipes, apesar de tudo, a ética foi o que nos motivou a continuar trabalhando como uma equipe e lidar com os problemas pessoais após a entrega;
  <br>
   <h3 align="justify">Hard Skills</h3>
   <ul>
