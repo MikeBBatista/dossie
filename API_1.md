@@ -58,6 +58,14 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
  <h3 align="justify">Soft Skills</h3>
+ 
+  * <b>Comunicação:</b> Como primeiro projeto da faculdade, foi necessário desenvolver a comunicação para começarmos a trocar informações e conhecimento, graças a ajuda e apoio dos Masters, pudemos começar a nos comunicar como equipe.
+ * <b>Flexibilidade E Resiliência:</b> Com o decorrer do semestre ocorreu o avanço da pandemia e com o lockdown o ânimo de todos foi afetado, apesar disso grande parte do grupo foi resiliente e se manteve positiva quanto continuar mesmo com todas as adversidades;
+ * <b>Trabalho em Equipe:</b> Apesar da equipe ter encurtado durante o semestre, ter conseguido dividir as tarefas e adequa-las as entregas, só foi possível graças a união da equipe durante cada sprint.
+ * <b>Atitude Positiva:</b> Mesmo com todos os problemas e toda incerteza sobre a continuidade do semestre, continuei positivo sobre a minha capacidade de atuar como desenvolvedor para entregar o projeto.
+ <br>
+ 
+   <h3 align="justify">Hard Skills</h3>
   <ul>
     <li>Agile Scrum:
       <ul>
@@ -68,7 +76,6 @@
       </ul>
      </li>
    </ul>
-   <h3 align="justify">Hard Skills</h3>
   <ul>
    <li>Python (Aprendi a utilizar com autonomia):
      <ul>
