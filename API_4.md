@@ -2,6 +2,7 @@
 <body>
  <h1 align="center"> API 4º Semestre - 02/2021</h1>
  <h2> Parceiro Acadêmico: <a href="https://www.oracle.com/br/">Oracle</a></h2>
+  A Oracle é uma empresa de tecnologia que visa ajudar o gerenciamento de dados, com o propósito de ajudar as pessoas a ver dados de novas maneiras, descobrir ideias e desbloquear possibilidades infinitas. Graças a pandemia a Oracle precisou desenvolver uma plataforma para gerenciar eventos e seu público.
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   <p align="justify" style="font-family:roboto;"> :calendar: <b>#VEMPRACASA</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Sistema para realização de agendamentos de eventos nos espaços da Casa Oracle, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.</p>
   <p align="justify" style="font-family:roboto;">Nessa documentação será abordado o projeto da visão do desenvolvedor front-end, para mais informações gerais sobre o projeto <a href="https://github.com/GabrielSG20/API4Sem2021">clique aqui</a></p>
@@ -39,7 +40,13 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
  <h3 align="justify">Soft Skills</h3>
-  <ul>
+  * <b>Comunicação:</b> Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
+ * <b>Pensamento Crítico:</b> A problematica apresentada necessitava um pensamento crítico diferenciado para resolução de problemáticas como nível de usuário e acesso limitado de acordo com a necessidade vigente;
+ * <b>Trabalho em Equipe:</b> A integração front-back, exigiu além de comunicação muito trabalho em equipe para que tudo se encaixasse perfeitamente.
+ * <b>Proatividade:</b> Esse foi meu primeiro projeto em Angular por conta própria, e como responsável pelo front-end, precisei correr atrás de como desenvolver seguindo os melhores padrões de código.
+ <br>
+  <h3 align="justify">Hard Skills</h3>
+   <ul>
     <li>Agile Scrum:
       <ul>
         <li>Primeiro contato com Scrum;</li>
@@ -49,8 +56,6 @@
       </ul>
      </li>
    </ul>
- <br>
-  <h3 align="justify">Hard Skills</h3>
   <ul>
      <li>Pré processador de CSS (Aprendi a fazer com autonomia):
   <ul>
