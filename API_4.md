@@ -40,7 +40,7 @@
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
  
  <h3 align="justify">Soft Skills</h3>
-   * <b>Comunicação:</b> Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário;
+   * <b>Comunicação:</b> Durante todo o projeto, como responsável pelo frontend, precisei me comunicar com os outros integrantes de forma clara, para que não houvesse divergência principalmente nos dados enviados tanto pelo front pro back quanto o contrário.
   * <b>Pensamento Crítico:</b> A problematica apresentada necessitava um pensamento crítico diferenciado para resolução de problemáticas como nível de usuário e acesso limitado de acordo com a necessidade vigente;
   * <b>Trabalho em Equipe:</b> A integração front-back, exigiu além de comunicação muito trabalho em equipe para que tudo se encaixasse perfeitamente.
   * <b>Proatividade:</b> Esse foi meu primeiro projeto em Angular por conta própria, e como responsável pelo front-end, precisei correr atrás de como desenvolver seguindo os melhores padrões de código.
